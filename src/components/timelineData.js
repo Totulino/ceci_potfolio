@@ -15,8 +15,9 @@ const timelineData = [
   {
     id: 1,
     title: "Treasurer - Board Member ",
-    date: " October 2023 - December 2023",
-    description: "Full Stack Development Bootcamp",
+    date: " August 2018 - August 2019",
+    description:
+      "Responsible for 1500 internaitonal students with 5 board memebrs",
   },
 ];
 export default timelineData;
